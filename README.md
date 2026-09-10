@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ibteda Karim 👋
 
-<!--
-**IbtedaKarim/IbtedaKarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student  
+💻 Interested in Programming, Embedded Systems, Electronics and AI
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have worked on several academic and personal projects involving
+Python, Embedded Systems, Computer Vision, Microcontrollers and Electronics.
+
+## 🛠️ Languages & Tools
+
+- Python
+- C/C++
+- MATLAB
+- Verilog/SystemVerilog
+- 8051 Assembly
+- Arduino
+- Proteus
+- OpenCV
+- Git & GitHub
+
+## 📚 Currently Learning
+
+- Digital Design
+- Embedded Systems
+- Computer Vision
+- Machine Learning
+- Git & GitHub
+
+## 📫 Contact
+
+GitHub: @IbtedaKarim
