@@ -1,7 +1,6 @@
 # Hi, I'm Ibteda Karim 
 
  Engineering Student  
- Interested in Embedded Systems, Electronics and VLSI
 
 ##  Projects
 
