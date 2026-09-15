@@ -14,11 +14,15 @@ GitHub: @IbtedaKarim
 ### [Synthetic Winter CycleGAN](https://github.com/IbtedaKarim/Synthetic-Winter-CycleGAN)
 Image-to-image translation using CycleGAN.
 
-### [Table Tennis Training Machine](https://github.com/IbtedaKarim/Table-Tennis-Training-Machine)
+### [Table Tennis Training Machine](https://github.com/IbtedaKarim/ping-pong-launcher)
 Computer vision and Arduino based training system.
 
-### [8051 Tic-Tac-Toe](https://github.com/IbtedaKarim/8051-Tic-Tac-Toe)
-Tic-Tac-Toe game implemented using 8051 Assembly.
+### [Temperature Controlled Motor](https://github.com/IbtedaKarim/Temperature-Controlled-Motor)
+Temperature-controlled motor system with automatic speed regulation based on sensor feedback.
 
-### [Audio Pattern Detection](https://github.com/IbtedaKarim/Audio-Pattern-Detection)
+
+### [Audio Pattern Detection](https://github.com/IbtedaKarim/audio_pattern_detection)
 Machine learning project for classifying audio signals.
+
+### [SAP-1](https://github.com/IbtedaKarim/SAP-1_6bit)
+A 6-bit SAP-1 computer, implementing digital logic, control unit, and computer architecture concepts
