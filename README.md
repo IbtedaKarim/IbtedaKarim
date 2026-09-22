@@ -30,6 +30,6 @@ A 6-bit SAP-1 computer, implementing digital logic, control unit, and computer a
 ## Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,c,matlab,python,opencv,tinkercad,blender,adobe illustrator" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,matlab,python,opencv,tinkercad,blender,adobeillustrator" />
 </p>
 
