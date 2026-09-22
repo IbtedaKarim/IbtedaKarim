@@ -29,8 +29,8 @@ Machine learning project for classifying audio signals.
 A 6-bit SAP-1 computer, implementing digital logic, control unit, and computer architecture concepts
 
 ## Featured Works
-
-
+### [3-D Models](https://github.com/IbtedaKarim/3D-Designs)
+3-D model of a table tennis bot
 
 ## Languages and Tools
 
