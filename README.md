@@ -2,10 +2,11 @@
 
  Engineering Student  
 
-##  Projects
+##  Projects and Works
 
 I have worked on several academic and personal projects involving
 Python, Embedded Systems, Computer Vision, Microcontrollers and Electronics.
+I also created 3-D designs and animations.
 
 GitHub: @IbtedaKarim
 
@@ -26,6 +27,10 @@ Machine learning project for classifying audio signals.
 
 ### [SAP-1](https://github.com/IbtedaKarim/SAP-1_6bit)
 A 6-bit SAP-1 computer, implementing digital logic, control unit, and computer architecture concepts
+
+## Featured Works
+
+
 
 ## Languages and Tools
 
