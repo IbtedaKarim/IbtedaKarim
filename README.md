@@ -36,3 +36,17 @@ A 6-bit SAP-1 computer, implementing digital logic, control unit, and computer a
   <img src="https://img.shields.io/badge/Tinkercad-1473E6?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
 </p>
+<h3>Languages and Tools</h3>
+
+<p>
+  <img src="https://cdn.simpleicons.org/arduino" width="50"/>
+  <img src="https://cdn.simpleicons.org/c" width="50"/>
+  <img src="https://cdn.simpleicons.org/cplusplus" width="50"/>
+  <img src="https://cdn.simpleicons.org/matlab" width="50"/>
+  <img src="https://cdn.simpleicons.org/python" width="50"/>
+  <img src="https://cdn.simpleicons.org/pytorch" width="50"/>
+  <img src="https://cdn.simpleicons.org/opencv" width="50"/>
+  <img src="https://cdn.simpleicons.org/blender" width="50"/>
+  <img src="https://cdn.simpleicons.org/tinkercad" width="50"/>
+  <img src="https://cdn.simpleicons.org/adobeillustrator" width="50"/>
+</p>
