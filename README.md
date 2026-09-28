@@ -39,3 +39,10 @@ A 6-bit SAP-1 computer, implementing digital logic, control unit, and computer a
   <img src="https://cdn.simpleicons.org/tinkercad" width="50"/>
 </p>
 
+## Contact
+
+<a href="mailto:ibtedakarim@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail" width="40"/>
+</a>
+&nbsp;
+
