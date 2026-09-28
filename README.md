@@ -41,7 +41,7 @@ A 6-bit SAP-1 computer, implementing digital logic, control unit, and computer a
 
 ## Contact
 
-<a href="mailto:ibtedakarim@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ibtedakarim@gmail.com" target="_blank">
   <img src="https://cdn.simpleicons.org/gmail" width="40"/>
 </a>
 &nbsp;
