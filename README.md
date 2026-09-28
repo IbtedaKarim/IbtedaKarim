@@ -45,7 +45,3 @@ A 6-bit SAP-1 computer, implementing digital logic, control unit, and computer a
   <img src="https://cdn.simpleicons.org/gmail" width="40"/>
 </a>
 &nbsp;
-<a href="https://www.facebook.com/ibteda.karim.2024">
-  <img src="https://cdn.simpleicons.org/facebook" width="40"/>
-</a>
-&nbsp;
